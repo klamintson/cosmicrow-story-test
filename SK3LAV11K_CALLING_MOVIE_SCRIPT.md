@@ -344,9 +344,7 @@ Down in the bay, between DO11AD011 and the mountain, a boat is firing red beams 
 
 **EXT. SK3LAV11K BAY — NIGHT — AERIAL.** Rain. The camera sinks slowly toward a lone boat in the bay. Its three guns fire in turn, red beams climbing into the sky. Drones and carriers burst along the beams. Searchlights sweep. Mist drifts over the water.
 
-**EXT. THE BOAT — DECK.** Down the beams to a figure at the rail: CAPTAIN LEVI-8, spyglass to the eye, while drones die overhead. A blast behind washes orange light over the deck.
-
-**CLOSE ON LEVI-8.** The spyglass comes down. A grin. A cyborg eye ignites red. No fear at all.
+**EXT. THE BOAT — DECK.** Down the beams to a figure at the rail: CAPTAIN LEVI-8, spyglass to the eye, while drones die overhead. A blast behind washes orange light over the deck. No fear at all.
 
 **LEVI-8:** Let them come. I've been waiting.
 
