@@ -240,7 +240,7 @@ The first stroke. A narrow strip of light runs along the Aurora's hull. Then ano
 
 **VANTA-7:** Contact on the ice road. Something small. Fast. Very fast.
 
-**EXT. THE RINGWAY — TJ'S ARRIVAL.** *Music: mystery.* A waveboard comes screaming out of the ice.
+**EXT. SPACE — TJ'S ARRIVAL.** *Music: mystery.* A pink star swells over the night side of the planet, then white. Out of the light: a waveboard, screaming across the planet. Closer: TJ riding, sparks pouring off the board, under a carrier, still going. Close on the helmet.
 
 **TJ PACER:** Did somebody order a defender?
 
@@ -342,9 +342,11 @@ Down in the bay, between DO11AD011 and the mountain, a boat is firing red beams 
 
 ### Harbour Guns (cutscene)
 
-**EXT. SK3LAV11K BAY — NIGHT — AERIAL.** Rain. The camera sinks slowly toward a lone boat in the bay. Its three guns fire in turn, red beams climbing into the sky. Drones and carriers burst along the beams. Searchlights sweep. Mist drifts over the water.
+**EXT. SK3LAV11K BAY — NIGHT — AERIAL.** Rain. The camera sinks slowly toward a lone boat in the bay. Its five guns fire in turn, three on the deck and two on the roof of the bridge, red beams climbing into the sky. Drones and carriers burst along the beams. Searchlights sweep. Mist drifts over the water.
 
-**EXT. THE BOAT — DECK.** Down the beams to a figure at the rail: CAPTAIN LEVI-8, spyglass to the eye, while drones die overhead. A blast behind washes orange light over the deck. No fear at all.
+**EXT. THE BOAT — DECK — WIDE.** CAPTAIN LEVI-8 on the deck under the bridge guns, head to boots.
+
+**CLOSER.** Down the beams to the figure at the rail: CAPTAIN LEVI-8, spyglass to the eye, while drones die overhead. A blast behind washes orange light over the deck. No fear at all.
 
 **LEVI-8:** Let them come. I've been waiting.
 
@@ -618,6 +620,12 @@ Re-entry fire in reverse; cloud; then space.
 
 **ECHO** (110 m): Warden-9 is running for its capital. Catch it first.
 
+*Three times during the chase, at random:* a violet flash just ahead of the fleet. Nightfall drops in, fires four violet shots, a carrier (or an eye) goes down, and the ship is gone. Nobody knows who it is.
+
+> **TJ PACER:** Who was THAT? / **ECHO:** Unknown vessel. No registration. Gone again.
+> **ROWSTAR-03:** That ship just took a carrier off us. Echo, who is flying it? / **ECHO:** I do not know. It does not answer.
+> **TJ PACER:** Okay. The ghost is on our side. I think. / **ROWSTAR-03:** Nobody follows it. Keep the line.
+
 Ahead, the escape corridor between Warden-9's escort is narrowing. Titan moves into it and holds it open.
 
 **GEIL-19** (135 m): The corridor is closing. Titan holds it open. Go through.
@@ -796,6 +804,28 @@ HUD: OPENING HELD · SK3LHOVD1 INBOUND. *With 100 m left: Music: The Final Trans
 
 **J3HAN/1:** I know.
 
+**INT. SK3LHOVD1 — COCKPIT.** Neon City burning in the window.
+
+**J3HAN/1:** I wish we had more time. Eleven years… and I get two minutes.
+
+**CLOSE ON NIGHTFALL'S HELMET.**
+
+**NIGHTFALL:** Then don't do this.
+
+**INT. SK3LHOVD1 — COCKPIT.**
+
+**J3HAN/1:** The hangar in the mountain is yours now. There is something there for you. I built it for you.
+
+**CLOSE ON NIGHTFALL'S HELMET.**
+
+**NIGHTFALL:** …I don't want your hangar.
+
+**INT. SK3LHOVD1 — COCKPIT.**
+
+**J3HAN/1:** I know. It's yours anyway.
+
+**CLOSE ON NIGHTFALL'S HELMET.** *Silence.* Nightfall does not answer.
+
 **SPLIT: J3HAN/1 AND NIGHTFALL.** Two signals side by side. The captain looks once at Nightfall's.
 
 **J3HAN/1:** Let me bring you home this time.
@@ -869,6 +899,24 @@ The transmission dies.
 **IRIS-02** (radio): Foundry to the road. The wall held. Welcome home.
 
 **LEVI-8** (radio): Took you long enough.
+
+**EXT. SK3LAV11K — THE LIT HARBOUR.** *Music: calm.* On the radio:
+
+**TJ PACER:** Captain. Everyone in the village says there's a leviathan sleeping in your hull.
+
+**LEVI-8:** Everyone in the village talks too much.
+
+**TJ PACER:** So the myths aren't true?
+
+**LEVI-8:** I didn't say that.
+
+**TJ PACER:** …Can I see it?
+
+**LEVI-8:** If you ever see it, Pacer, something has gone very wrong.
+
+**TJ PACER:** Is it true it can swallow a carrier whole?
+
+**LEVI-8:** Only the slow ones.
 
 **EXT. THE HARBOUR.** *Music: calm.* TJ on the Star Rider, hovering over the lit harbour.
 
