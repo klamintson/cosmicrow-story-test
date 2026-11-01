@@ -988,19 +988,25 @@ Both climb steeply past the empty mountain hangar.
 
 **BLACK.** *Silence.*
 
-**INT. NIGHTFALL'S QUARTERS — NIGHT.** *Music: grief.* NIGHTFALL sits at a desk, seen from behind.
-
-**INT. NIGHTFALL'S QUARTERS — THE WINDOW.** Nightfall at the window. Rain on the glass. Outside, the city.
+**INT. NIGHTFALL'S QUARTERS — NIGHT.** *Music: grief.* NIGHTFALL from behind, at a window over the lights of SK3LAV11K: the mountain, the houses, the striped sun. Rain on the glass. On the sill, an old recorder. Above it, a small violet hologram flickers.
 
 Nightfall in profile, hair falling over the face.
 
-The recording plays. Close on one brown eye, listening. The eye closes. A tear runs down.
+A gloved hand reaches for the recorder. On its side: *J3HAN/1 → BJ03N*.
+
+**INSERT — THE RECORDER'S SCREEN.** J3HAN/1's face. A name: **B.K.S.J**. A waveform starts to move.
+
+**J3HAN/1** (recording): BJ03N. If you're hearing this, I didn't make it back.
+
+**J3HAN/1** (recording): The hangar is yours. B.K.S.J is yours. I built it for you. For the day you came home.
+
+Close on one brown eye, listening. The eye closes. A tear runs down.
 
 **J3HAN/1** (recording): I am so proud of you.
 
 **NIGHTFALL:** I heard you.
 
-**INT. NIGHTFALL'S QUARTERS — THE SILL.** On the window sill, an old beacon receiver lights up: amber, slow, patient. The SK3LAV11K band.
+**INT. NIGHTFALL'S QUARTERS — THE SILL.** The recorder. Above it, the hologram: a slim black ship with violet lines, waiting under a sheet in the mountain hangar. An amber light wakes on the recorder: the SK3LAV11K band.
 
 Nightfall does not answer. Not yet.
 
